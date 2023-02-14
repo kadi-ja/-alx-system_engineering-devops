@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "hello $USER"
+printenv "hello $USER"
 
 
